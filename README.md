@@ -1,3 +1,3 @@
-# Webpack configured tempalte
+# Webpack configured template
 
 ## This is for development purposes

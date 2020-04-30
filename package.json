@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   }
